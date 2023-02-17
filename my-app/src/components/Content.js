@@ -27,7 +27,6 @@ export class Content extends Component {
         posts: filteredPosts,
       })
       console.log(filteredPosts)
-
     }
 
   render() {
